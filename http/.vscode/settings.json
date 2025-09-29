@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "*.dbclient-js": "javascript",
+        "*.wxml": "html",
+        "*.wxss": "css",
+        "*.cjson": "jsonc",
+        "*.wxs": "javascript",
+        "array": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "format": "cpp",
+        "initializer_list": "cpp",
+        "span": "cpp",
+        "chrono": "cpp",
+        "cmath": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "functional": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "variant": "cpp"
+    }
+}
